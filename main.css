@@ -11,6 +11,9 @@
 .logo {
     display: inline-block;
 }
+.bg_left {
+    display: inline-block;
+}
 .main_nav {
     display: inline-block;
     padding: 60px;
