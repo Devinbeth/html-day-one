@@ -1,9 +1,24 @@
 .top_section_wrapper {
-    /* This is a comment */
-    width: 10px;
 }
 .top_left {
     width: 66%;
     height: 100vh;
-    background-image: linear-gradient(45deg, #BECFFF 0%, #CE99FF 98%);
+    background-image: linear-gradient(-45deg,#CE99FF 30%, #BECFFF 70%);
+}
+.main_header {
+    padding: 24px;
+}
+.logo {
+    display: inline-block;
+}
+.main_nav {
+    display: inline-block;
+    padding: 60px;
+}
+.main_nav li {
+    display: inline-block;
+    margin-left: 16px;
+    font-size: 16px;
+    font-weight: 400;
+    color: white;
 }
